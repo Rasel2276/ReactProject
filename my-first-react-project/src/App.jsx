@@ -1,9 +1,14 @@
 import Rbutton from "./button"
+import Random from "./Random"
+import Hello from "./Hello"
 function App (){
   return <div>
             <h1>hello</h1>
-            <h1>hello</h1>
-            <Rbutton></Rbutton>
+            <Random></Random>
+            <Random></Random>
+            <Random></Random>
+            <Random></Random>
+            <Hello></Hello>
          </div>
 
 
